@@ -49,12 +49,12 @@ a {
 
 .logo {
    font-weight: bold;
-   color: black;
+   color: white;
    font-size: 2em;
 }
 
 a div {
-   color:black;
+   color:white;
 }
 
 .title {
@@ -65,8 +65,8 @@ a div {
 
 .cool {
    position: relative;
-   background-color: white;
-   color: black;
+   background-color: black;
+   color: white;
    border-top: 2px black solid;
 }
 
@@ -75,8 +75,9 @@ a div {
    border-bottom: solid 4px white;
    border-left: solid 2px white;
    border-right: solid 4px white;
-   color:black;
+   color:white;
    opacity: 1;
+   background-color: black;
 }
 /*.ll:not([disabled]):hover {
   opacity: 1;
@@ -85,11 +86,12 @@ a div {
 }*/
 
 .dws {
+   background-color: black;
    border-top: solid 4px white;
    border-bottom: solid 4px white;
    border-left: solid 2px white;
    border-right: solid 2px white;
-   color:black;
+   color:white;
    opacity: 1;
 }
 /*.dws:not([disabled]):hover {
@@ -101,12 +103,13 @@ a div {
 }*/
 
 .sp {
+   background-color: black;
    border-top: solid 4px white;
    border-bottom: solid 4px white;
    border-left: solid 4px white;
    border-right: solid 2px white;
    opacity: 1;
-   color:black;
+   color:white;
 }
 /*.sp:not([disabled]):hover {
   opacity: 1;
